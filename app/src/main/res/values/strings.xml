@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JIIT Book Store</string>
+    <string name="android_pay">JIIT Bookstore using Android Pay. Simple way to pay</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="description_example">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</string>
+    <string name="product_size">Paper: 6" x 4"</string>
+    <string name="product_color">Color: Black</string>
+    <string name="product_price">Price: 80$</string>
+    <string name="action_cart">Shopping Cart</string>
+    <string name="quantity">1</string>
+    <string name="product_name">Book-1</string>
+    <string name="price">100 $</string>
+    <string name="remove_from_cart">Remove</string>
+    <string name="continue_shopping">Continue shopping</string>
+    <string name="checkout">Checkout</string>
+    <string name="sub_total">Sub total:</string>
+    <string name="server_error">Payment Failed. Error parsing information to server</string>
+    <string name="successful_payment">Payment successfully uploaded</string>
+    <string name="pay_with_paypal">Pay with PayPal</string>
+</resources>
